@@ -1,2 +1,1 @@
-# fileSystemSim
-Simulated filesystem using a FAT
+# os3-labb
